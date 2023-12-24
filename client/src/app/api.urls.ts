@@ -1,3 +1,3 @@
 export const apiUrls ={
-    authServiceApi: 'http://localhost:8800/api/auth/'
+    authServiceApi: 'https://backmybooks.onrender.com/api/auth/'
 }
